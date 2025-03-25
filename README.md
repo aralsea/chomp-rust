@@ -1,3 +1,6 @@
+## chomp-rust
+A (naive) bruteforce solver for 3d Chomp game, written by ChatGPT.
+
 ### Requirements
 - rust (see https://www.rust-lang.org/tools/install)
 
